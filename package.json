@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "vite build",
+    "build": "vite build --base=/JARVIS/",
     "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
